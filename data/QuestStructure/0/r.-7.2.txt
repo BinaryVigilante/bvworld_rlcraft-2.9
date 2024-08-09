@@ -1,0 +1,5 @@
+StoneIceBoulder,-3595,-3585,1065,1074
+StoneIceBoulder1,-3701,-3691,1265,1275
+RLCraft_UndergroundFarm,-3714,-3672,1232,1275
+UndergroundCultChamber,-3807,-3765,1164,1196
+Tree_Oak_TheMushroomOak_v3,-3823,-3773,1006,1065

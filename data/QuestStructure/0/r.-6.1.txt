@@ -1,0 +1,6 @@
+StoneIceBoulder1,-3336,-3326,984,994
+ShrineSmallAir,-3362,-3354,986,994
+ShrineSmallAir,-3392,-3384,973,981
+RLCraft_DecentZombie,-3400,-3400,918,918
+RLCraft_UndergroundRuin3,-3403,-3395,916,924
+RLCraft_SmallUndergroundSkeleton,-3302,-3294,883,891

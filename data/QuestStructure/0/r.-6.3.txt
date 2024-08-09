@@ -1,0 +1,15 @@
+PeacefulCrypt,-3516,-3500,1996,2020
+StoneIceBoulder,-3415,-3405,1966,1975
+UndergroundTreeoid,-3366,-3340,2004,2027
+StoneIceBoulder1,-3438,-3428,1850,1860
+RLCraft_SmallUndergroundSkeleton,-3319,-3311,1837,1845
+DinosaurSkeleton,-3292,-3246,1821,1830
+P_VillageFarmhouse,-3206,-3194,1918,1930
+StoneIceBoulder3,-3183,-3173,1804,1814
+StoneIceBoulder2,-3196,-3187,1764,1773
+StoneIceBoulder3,-3211,-3201,1758,1768
+ShrineSmallFire,-3414,-3404,1757,1767
+RLCraft_DecentSpider,-3166,-3166,1991,1991
+RLCraft_UndergroundRuin2,-3168,-3161,1986,1996
+P_Tent,-3159,-3150,1838,1847
+UndergroundCrypt,-3141,-3127,1795,1823

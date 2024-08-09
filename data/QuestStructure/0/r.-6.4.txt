@@ -1,0 +1,3 @@
+SmallAbandonedMine,-3546,-3521,2149,2164
+ShrineSmallFire,-3110,-3100,2173,2183
+RLCraft_LargeUndergroundTown,-3215,-3078,2101,2214

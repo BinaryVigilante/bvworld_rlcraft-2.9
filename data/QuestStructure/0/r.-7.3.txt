@@ -1,0 +1,3 @@
+RLCraft_SmallUndergroundSkeleton,-3589,-3581,1892,1900
+RLCraft_DecentWitch,-3621,-3621,2046,2046
+RLCraft_UndergroundRuin3,-3626,-3618,2040,2048

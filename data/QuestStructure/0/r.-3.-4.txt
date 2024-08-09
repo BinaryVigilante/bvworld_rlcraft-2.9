@@ -1,0 +1,9 @@
+RLCraft_SmallUndergroundSkeleton,-1677,-1669,-2550,-2542
+RLCraft_BasicSpider,-1738,-1738,-2544,-2544
+RLCraft_UndergroundRuin1,-1741,-1732,-2547,-2538
+StonePlantMound3,-1848,-1837,-2527,-2518
+MysticalTree1,-1905,-1894,-2526,-2513
+WoodThorn,-1916,-1905,-2505,-2494
+ElvenPond,-1990,-1961,-2513,-2483
+StonePlantBoulder,-1798,-1788,-2485,-2475
+StoneBoulder,-2003,-1994,-2489,-2480

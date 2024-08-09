@@ -1,0 +1,13 @@
+RLCraft_Airtes,1466,1481,214,229
+StonePlantBoulder,1430,1440,103,113
+SmallWoodenCottage,1392,1400,140,151
+StonePlantMound1,1407,1413,247,253
+StonePlantMound3,1485,1494,246,257
+SmallWoodenCottage1,1504,1510,259,270
+Tree_Oak_TheMushroomOak_v3,1350,1409,43,93
+StonePlantMound2,1351,1363,313,326
+SmallWoodenCottage2,1288,1296,271,279
+StonePlantMound2,1518,1530,26,39
+StonePlantBoulder,1276,1286,48,58
+StonePlantMound1,1277,1283,264,270
+StonePlantMound4,1333,1340,4,11

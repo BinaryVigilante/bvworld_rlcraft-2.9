@@ -1,0 +1,6 @@
+StoneLeafMound,-3647,-3640,-3581,-3572
+RLCraft_DecentZombie,-3680,-3680,-3305,-3305
+RLCraft_UndergroundRuin2,-3685,-3678,-3310,-3300
+StonePlantMound2,-3705,-3692,-3492,-3480
+RLCraft_UndergroundFarm,-3732,-3689,-3491,-3449
+ShrineSmallFire,-3764,-3754,-3126,-3116

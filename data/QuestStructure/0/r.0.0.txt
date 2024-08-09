@@ -1,0 +1,16 @@
+StoneLeafMound,-31,-22,360,367
+SmallWoodenCottage2,94,102,218,226
+StonePlantMound,98,103,255,260
+StonePlantMound3,191,200,183,194
+StonePlantBoulder,226,236,302,312
+SpiderPit,217,226,306,316
+RLCraft_BasicSpider,242,242,106,106
+RLCraft_UndergroundRuin1,236,245,100,109
+StonePlantMound4,290,297,168,175
+StonePlantMound4,284,291,387,394
+OldWatchtower,294,307,258,270
+StonePlantBoulder,332,342,167,177
+StonePlantMound1,335,341,399,405
+RLCraft_DecentSpider,-124,-124,-253,-253
+RLCraft_UndergroundRuin2,-129,-119,-255,-248
+DinosaurSkeleton,-154,-108,-256,-247

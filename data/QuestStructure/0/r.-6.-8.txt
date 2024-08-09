@@ -1,0 +1,10 @@
+MeteorSite,-3523,-3493,-4104,-4089
+StoneLeafMound,-3494,-3487,-4134,-4125
+RLCraft_LargeUndergroundTown,-3272,-3135,-4221,-4108
+StoneBoulder,-3555,-3546,-4148,-4139
+StoneBoulder,-3533,-3524,-4210,-4201
+StoneBoulder,-3455,-3446,-4262,-4253
+RLCraft_BasicSpider,-3555,-3555,-4293,-4293
+RLCraft_UndergroundRuin1,-3558,-3549,-4299,-4290
+Tree_Oak_TheMushroomOak_v3,-3468,-3418,-4386,-4327
+RLCraft_SmallUndergroundSkeleton,-3465,-3457,-4500,-4492

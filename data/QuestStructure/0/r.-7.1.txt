@@ -1,0 +1,3 @@
+RLCraft_DecentSpider,-3734,-3734,951,951
+RLCraft_UndergroundRuin2,-3736,-3729,946,956
+RLCraft_SmallUndergroundSkeleton,-3752,-3744,1000,1008
